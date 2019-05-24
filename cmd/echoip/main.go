@@ -7,9 +7,9 @@ import (
 
 	"os"
 
-	"github.com/mpolden/echoip/http"
-	"github.com/mpolden/echoip/iputil"
-	"github.com/mpolden/echoip/iputil/geo"
+	"github.com/alifarah9/echoip/http"
+	"github.com/alifarah9/echoip/iputil"
+	"github.com/alifarah9/echoip/iputil/geo"
 )
 
 func main() {

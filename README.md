@@ -1,6 +1,6 @@
 # echoip
 
-[![Build Status](https://travis-ci.org/mpolden/echoip.svg)](https://travis-ci.org/mpolden/echoip)
+[![Build Status](https://travis-ci.org/alifarah9/echoip.svg)](https://travis-ci.org/alifarah9/echoip)
 
 A simple service for looking up your IP address. This is the code that powers
 https://ifconfig.co.
@@ -89,7 +89,7 @@ between IPv4 and IPv6 lookup.
 Compiling requires the [Golang compiler](https://golang.org/) to be installed.
 This package can be installed with `go get`:
 
-`go get github.com/mpolden/echoip/...`
+`go get github.com/alifarah9/echoip/...`
 
 For more information on building a Go project, see the [official Go
 documentation](https://golang.org/doc/code.html).
@@ -97,9 +97,9 @@ documentation](https://golang.org/doc/code.html).
 ## Docker image
 
 A Docker image is available on [Docker
-Hub](https://hub.docker.com/r/mpolden/echoip), which can be downloaded with:
+Hub](https://hub.docker.com/r/alifarah9/echoip), which can be downloaded with:
 
-`docker pull mpolden/echoip`
+`docker pull alifarah9/echoip`
 
 ### Usage
 
